@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="FactoryTest1">
+        <parameter name="firstPar" value="firstParameter11"/>
+        <classes>
+            <class name="org.example.SimpleTestNG"></class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="FactoryTest2">
+        <parameter name="firstPar" value="secondParameter22 Suite"/>
+        <classes>
+            <class name="org.example.SimpleTestNG"></class>
+        </classes>
+    </test>
+</suite>
