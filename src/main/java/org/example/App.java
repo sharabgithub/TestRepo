@@ -14,6 +14,7 @@ public class App
         System.out.println( "Line Conflict added from Github" );
         System.out.println( "Line 4 is added from Local IJ" );
         System.out.println( "YYYYYYYYYYYYY GH YYYYYYYYYYYYYYYYYY" );
+        System.out.println("XXXXXXXXXX Local XXXXXXXXXXXX");
     }
 }
 // this is added by prasanna
