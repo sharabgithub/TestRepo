@@ -5,6 +5,7 @@ import org.testng.annotations.DataProvider;
 public class AppTest
 {
     public void repeatMethod(int i){
+        System.out.println("this is for git testing");
         System.out.println("this printing from repeat method : "+i);
     }
 
