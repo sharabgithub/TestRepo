@@ -10,5 +10,7 @@ public class ADTCounter {
     }
     public void getCounterVal(){
         System.out.println(value);
+        System.out.println("this is direct update from github");
+        
     }
 }
